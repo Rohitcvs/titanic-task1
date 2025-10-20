@@ -1,0 +1,13 @@
+# virtual env
+.venv/
+
+# Jupyter artifacts
+__pycache__/
+.ipynb_checkpoints/
+
+# local data
+train.csv
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
